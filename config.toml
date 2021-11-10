@@ -2,3 +2,4 @@ baseURL = "https://microcosms.space/"
 languageCode = "en-us"
 title = "Microcosms"
 theme = "massively"
+relativeURLs = true
