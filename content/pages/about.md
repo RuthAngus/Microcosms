@@ -5,8 +5,6 @@ draft: false
 type: front
 ---
 
-THIS IS AWESOME!!
-
 Science is more meaningful, accessible, and memorable when it is communicated through stories. Microcosms is a scientific storytelling program at the American Museum of Natural History that brings scientists and artists together to create new collaborative science-themed stories.
 
 Microcosms is an NSF-funded program that will begin in 2022. During each year of the program, playwrights and scientists will work in pairs to produce new concepts for scientific plays, including drafts of selected scenes, and performative stories that are truthful and personal. At the end of the year, the participants will present and perform their new works and stories to a live audience.
